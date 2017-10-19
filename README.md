@@ -1,1 +1,4 @@
-Git proba berriak
+GIT probak
+=======
+
+Probak egiten gabiltza (bigarren eguna).
